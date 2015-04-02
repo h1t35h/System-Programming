@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1378782995 source:/root/Programs/System Programming/Conversions.cpp
+	<math.h>
+	<cstring>
+	"Conversions.h"
+
+1378719906 /root/Programs/System Programming/Conversions.h
+
+1378744302 source:/root/Programs/System Programming/Typedefine.cpp
+	"Typedefine.h"
+	<string>
+	<cctype>
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+
+1378785529 source:/root/Programs/System Programming/Main.cpp
+	"Typedefine.h"
+	<stdio.h>
+	"Conversions.h"
+	"Tables.h"
+	<iostream>
+	<set>
+	<algorithm>
+	<stack>
+	<queue>
+	<vector>
+	<cmath>
+	<ctype.h>
+	<cstring>
+
+1378785726 /root/Programs/System Programming/Typedefine.h
+	<string>
+
+1378785243 source:/root/Programs/System Programming/Tables.cpp
+	"Tables.h"
+	"Conversions.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1378785495 /root/Programs/System Programming/Tables.h
+	<string>
+
